@@ -1,0 +1,136 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+body {
+	background: #2B2D42;
+	font-size: 18px;
+	font-family: sans-serif;
+	text-align: center;
+	color: #2B2D42;
+}
+form{
+	background: #EDF2F4; 
+}
+h2 {
+	border:0;
+	padding:0;
+	margin: 10px;
+}
+.site-branding {
+	width: 80%;
+	height: 140px;
+	background: #8D99AE;
+	padding: 8px;
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+    border: 10px outset #F1FAEE;
+}
+.site-title {
+	margin: 20px;
+}
+.site-title a{
+	font-size: 50px;
+	text-align: center;
+	text-decoration: none;
+	color: #2B2D42;
+}
+.site-subtitle {
+	font-family: monospace;
+	font-size: 20px;
+	color: #F1FAEE;
+	font-size: 20px;
+	border: none;
+	padding: none;
+}
+.run {
+    display: inline-block;
+    background: #2B2D42;
+    padding: 10px 35px;
+    border-radius: 50px;
+    color: white;
+    border: 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: 15px;
+    cursor: pointer;
+    position: absolute;
+    top: 140px;
+    right:68pc;
+	text-transform: uppercase;
+}
+.registro{
+    font-size: 15px;
+    padding: 7px 2px;
+    font-family: sans-serif;
+    background: white;
+    border-radius: 10px;
+    outline: 0px;
+    border: 1px solid #0e3140;
+    padding: 10px;
+    border-radius: 0;
+    text-transform: uppercase;
+}
+.met1{
+	width: 500px;
+	height: 220px;
+    background: #8D99AE;
+    text-align: center;
+	position: static;
+	border: 9px outset #EDF2F4;
+	margin: 70px auto;
+	padding: 30px;
+}
+.met1 fieldset{
+	border:0;
+	padding:0;
+	margin-bottom: 13px !important;
+}
+.met1: hover {
+	background: none;
+}
+.met1 input,
+.met1 select{
+	width: 80%;
+    margin: 0 !important;
+    position: relative;
+    top: 0;
+    left: 0;
+    border-radius: 0 !important;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.met2{
+	width: 500px;
+	height: 500px;
+    background: #8D99AE;
+    text-align: center;
+	position: static;
+	border: 9px outset #EDF2F4;
+	margin: 70px auto;
+	padding: 30px;
+}
+.met2 fieldset{
+	border:0;
+	padding:0;
+	margin-bottom: 13px !important;
+}
+.met2: hover {
+	background: none;
+}
+.met2 input,
+.met2 select{
+	width: 80%;
+    margin: 0 !important;
+    position: relative;
+    top: 0;
+    left: 0;
+    border-radius: 0 !important;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}
